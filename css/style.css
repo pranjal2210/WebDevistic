@@ -906,6 +906,11 @@ h3.my-profession{
         font-size: 26px;
     }
 
+    .service .service-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
     .container .mob-logo a{
         flex: 0 0 100%;
         max-width: 100%;
